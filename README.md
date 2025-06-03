@@ -57,3 +57,15 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 ## 📄 License
 
 This project is licensed under the [MIT License](https://github.com/hariram130303/Customer_Churn/blob/main/LICENSE).
+
+## 👨‍💻 Author
+
+**Hariram**  
+Passionate about data science, machine learning, and building intuitive web applications.
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hari-ram-thogata-madam-90ab02230/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/hariram130303)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/RamThogata5558/communitiese)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=Firefox-Browser&logoColor=white)](https://hariram130303.github.io/Portfolio/)
