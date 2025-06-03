@@ -10,28 +10,34 @@ This Streamlit app predicts telecom customer churn using two trained models: Log
 
 ## Installation
 
-**1. Clone the repo:**
+1. Clone the repo:
    ```bash
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone https://github.com/hariram130303/Customer_Churn
+   cd Customer_Churn
    ```
 
-**2. Create and activate a virtual environment:**
+2. Create and activate a virtual environment:
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    # Windows:
+    venv\Scripts\activate
+    # macOS/Linux:
+    source venv/bin/activate
     ```
 
-**3. Install dependencies:**
+3. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-## Running the app:
+4. Run the app:
     ```bash
     streamlit run app.py
     ```
-### Then open your browser at http://localhost:8501
+
+Open [http://localhost:8501](http://localhost:8501) in your browser.
+
+---
 
 ## Usage
 
@@ -45,7 +51,8 @@ This Streamlit app predicts telecom customer churn using two trained models: Log
 
 
 ## Deploymenet
-**Streamlit URL:**
+
+**Streamlit URL:** ()
 
 ## 📄 License
 
