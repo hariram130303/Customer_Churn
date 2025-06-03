@@ -52,7 +52,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## Deploymenet
 
-**Streamlit URL:** ()
+**Streamlit URL:** (https://customer-churn-prediction1237.streamlit.app/)
 
 ## 📄 License
 
